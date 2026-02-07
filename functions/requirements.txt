@@ -1,0 +1,9 @@
+# Firebase Functions dependencies
+firebase-functions>=0.4.0
+firebase-admin>=6.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Audio processing
+pydub>=0.25.1

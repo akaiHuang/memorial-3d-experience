@@ -8,6 +8,10 @@ An interactive 3D memorial experience that transforms shared memories -- photogr
 
 Memorial 3D Experience 以沉浸式 3D 互動重新設計追思體驗，將照片、文字與聲音記憶組合成可探索的數位空間。適合用於互動敘事、數位紀念產品原型與文化/公益相關的體驗設計示範。
 
+## About (EN)
+
+Memorial 3D Experience is an immersive remembrance platform that transforms photos, text, and voice into interactive 3D spaces. It serves as a prototype for digital memorial products and emotional storytelling experiences.
+
 ## 📋 Quick Summary
 
 > 🕯️ **Memorial 3D Experience** 是一個以沉浸式 3D 技術重新定義紀念與追思的互動體驗平台。💫 將共享的記憶——照片、文字、語音——轉化為活生生的粒子系統與視覺化呈現。📷 每張上傳的照片會被解構為 10,000+ 個顏色取樣粒子，在 3D 空間中漂浮呼吸，保留原始色彩卻化為體積光雲。✍️ 文字記憶透過離屏 Canvas 光柵化再投射為 3D 點雲，自訂 Shader 控制從混沌到清晰的聚散動畫。🔊 語音錄音驅動即時反應式 3D 球體，表面位移隨說話者的音量與節奏起伏，創造有機的聲音視覺化。🌌 環境粒子場作為氛圍背景，營造深邃的紀念空間感。🛠️ 技術棧採用 Next.js 16、React 19、Three.js (React Three Fiber + Drei)、後處理特效、Framer Motion、GSAP 動畫，搭配 Firebase 後端（Firestore + Cloud Storage + Cloud Functions）。💝 適合追思會、紀念活動或任何希望透過科技延續記憶的溫暖場景。
